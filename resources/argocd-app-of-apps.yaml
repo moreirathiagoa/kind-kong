@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/moreirathiagoa/kind-kong.git
-    targetRevision: HEAD
+    targetRevision: main
     path: config
   destination:
     server: https://kubernetes.default.svc
